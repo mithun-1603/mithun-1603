@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **PENETRATION TESTING**
 
-- 👨‍💻 All of my projects are available at [portfolio.mithunw3b.tech](portfolio.mithunw3b.tech)
+- 👨‍💻 All of my projects are available at [portfolio.mithunw3b.tech](https://portfolio.mithunw3b.tech)
 
 - 📝 I regularly write articles on [blog.mithunw3b.tech](blog.mithunw3b.tech)
 
